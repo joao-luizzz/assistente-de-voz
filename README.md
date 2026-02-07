@@ -31,4 +31,4 @@ Para usar a inteligência real do ChatGPT:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui]
+Desenvolvido por João Luiz.
